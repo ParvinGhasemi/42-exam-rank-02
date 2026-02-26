@@ -6,11 +6,11 @@
 /*   By: pamohamm <pamohamm@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/26 23:03:41 by pamohamm          #+#    #+#             */
-/*   Updated: 2026/02/26 23:08:54 by pamohamm         ###   ########.fr       */
+/*   Updated: 2026/02/26 23:09:17 by pamohamm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_swap(int *a, int *b)
+void	ft_swap(int *a, int *b)
 {
 	int	temp;
 
