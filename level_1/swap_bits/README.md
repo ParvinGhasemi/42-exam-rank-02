@@ -1,6 +1,7 @@
 
 ## Subject
 
+```BASH
 Assignment name  : swap_bits
 Expected files   : swap_bits.c
 Allowed functions:
@@ -10,10 +11,9 @@ Write a function that takes a byte, swaps its halves (like the example) and retu
 
 Your function must be declared as follows:
 
-```c
 unsigned char	swap_bits(unsigned char octet);
 ```
-
+```c
 Example:
 
   1 byte
@@ -22,3 +22,4 @@ _____________
      \ /
      / \
  0001 | 01000
+```
