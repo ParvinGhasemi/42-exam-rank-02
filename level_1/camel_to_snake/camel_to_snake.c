@@ -6,12 +6,11 @@
 /*   By: parvinm.ghasemi <parvinm.ghasemi@studen      +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2026/05/20 14:27:29 by parvinm.gha   #+#    #+#                 */
-/*   Updated: 2026/06/18 13:15:50 by parvinm.gha   ########   odam.nl         */
+/*   Updated: 2026/06/18 13:17:05 by parvinm.gha   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-#include <stdlib.h>
 
 int	main(int argc, char **argv)
 {
