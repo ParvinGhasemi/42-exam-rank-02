@@ -6,7 +6,7 @@
 /*   By: pamohamm <pamohamm@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/24 07:27:56 by pamohamm          #+#    #+#             */
-/*   Updated: 2026/06/24 07:41:41 by pamohamm         ###   ########.fr       */
+/*   Updated: 2026/06/24 07:45:30 by pamohamm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,6 +29,7 @@ unsigned int    lcm(unsigned int a, unsigned int b)
     return (lcm);
 }
 
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -39,4 +40,4 @@ int	main(void)
 	printf("%u\n", lcm(0, 5));   // 0
 	return (0);
 }
-
+*/
